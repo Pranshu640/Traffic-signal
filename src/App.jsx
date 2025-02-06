@@ -38,8 +38,6 @@ function App() {
                     support@traffichive.com
                   </a>
                 </li>
-                <li>+1 (555) 123-4567</li>
-                <li>123 Traffic Ave, Smart City</li>
               </ul>
             </div>
 
